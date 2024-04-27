@@ -1,4 +1,4 @@
-![Couple Quest Logo](https://)
+![Couple Quest Logo](https://github.com/veniplex/Couple-Quest/blob/main/static/couple-quest-logo.png)
 
 # CoupleQuest
 
