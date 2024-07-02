@@ -7,7 +7,7 @@ As a Cyber Security Professional, I take the security of my projects very seriou
 ### How to Report Security Vulnerabilities
 If you believe you have found a security vulnerability in this project, I encourage you to let me know right away. I will investigate all legitimate reports and do my best to quickly fix the problem. Please follow these guidelines to report the vulnerability:
 
-- **Email Your Findings**: Send an email to github[@]dispomail[.]de. Please provide detailed steps to reproduce the vulnerability, including the version of the software you are using.
+- **Create a security issue**: Go to `Issues -> New issue -> Report a vulnerability`. Please provide detailed steps to reproduce the vulnerability, including the version of the software you are using.
 - **Include Your Contact Information**: For me to get back to you, please include your contact details.
 - **Private Disclosure**: Do not disclose the vulnerability publicly until I have had the chance to resolve it.
   
