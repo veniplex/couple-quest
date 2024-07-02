@@ -2,8 +2,6 @@
   <img src="https://github.com/veniplex/Couple-Quest/blob/main/static/couple-quest-logo.png" width="400px" />
 </p>
 
-# Couple Quest
-
 ## About the Project
 
 Couple Quest is a web application designed to enrich relationships by offering a dynamic way to generate and manage date ideas. Built using SvelteKit, the app provides a seamless user experience for couples looking to add spontaneity and excitement to their plans. With Couple Quest, users can add, remove, and shuffle through date ideas, ensuring fresh and engaging date options are always at hand.
