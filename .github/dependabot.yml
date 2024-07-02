@@ -9,3 +9,10 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
+      timezone: "Europe/Berlin"
+    assignees:
+      - "veniplex"
+    commit-message:
+      prefix: "[npm] "
+      include: "scope"
+    open-pull-requests-limit: 50
