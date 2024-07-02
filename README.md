@@ -39,4 +39,10 @@ We welcome contributions to CoupleQuest! If you have suggestions or improvements
 
 This project is licensed under the GPL-3.0 License - see the LICENSE.md file for details.
 
-_This was a one-day project!_
+## To-Do
+
+[ ] Add loading animation for sign in
+[ ] Introduce private database storage
+[ ] Add ability to connect to a partner
+[ ] Add ability to edit and delete date ideas
+[ ] Update README.md

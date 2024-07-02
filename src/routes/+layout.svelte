@@ -2,4 +2,6 @@
 	import "../app.css";
 </script>
 
-<slot />
+<div class="max-w-screen-xl h-screen m-auto">
+	<slot />
+</div>
