@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://github.com/veniplex/Couple-Quest/blob/main/static/couple-quest-logo.png" width="400px" />
-</p>
+<a href="https://couple-quest.veniplex.dev/">
+  <p align="center">
+    <img src="https://github.com/veniplex/Couple-Quest/blob/main/static/couple-quest-logo.png" width="400px" />
+  </p>
+</a>
 
 ## About the Project
 
