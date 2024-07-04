@@ -1,8 +1,18 @@
-<a href="https://couple-quest.veniplex.dev/">
-  <p align="center">
-    <img src="https://github.com/veniplex/Couple-Quest/blob/main/static/couple-quest-logo.png" width="400px" />
-  </p>
-</a>
+<div align="center">
+  <a href="https://couple-quest.veniplex.dev/">
+    <p align="center">
+      <img src="https://github.com/veniplex/Couple-Quest/blob/main/static/couple-quest-logo.png" width="400px" />
+    </p>
+  </a>
+
+  <a href="#"><img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/veniplex/couple-quest?style=flat&label=Version&color=%23fbc8b3"></a>
+  </br>
+  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/veniplex/couple-quest?style=flat&label=Stars&color=%23ffea88"></a>
+  <a href="#"><img alt="GitHub forks" src="https://img.shields.io/github/forks/veniplex/couple-quest?style=flat&label=Forks&color=%2388ff88"></a>
+  </br>
+  <a href="https://github.com/veniplex/couple-quest/issues?q=is%3Aopen+is%3Aissue"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues/veniplex/couple-quest?style=flat&label=Issues&color=%23ff8888"></a>
+  <a href="https://github.com/veniplex/couple-quest/pulls?q=is%3Aopen+is%3Apr"><img alt="GitHub Issues or Pull Requests" src="https://img.shields.io/github/issues-pr/veniplex/couple-quest?style=flat&label=Pull%20Requests&color=%236cbbb5"></a>
+</div>
 
 ## About the Project
 
