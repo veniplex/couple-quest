@@ -46,7 +46,7 @@ Additionally, a huge thank you to ChatGPT, whose assistance and guidance have be
 
 ## Acknoledgements
 
-Thanks to [shields.io](https://github.com/badges/shields) for providing cool badges!
+Thanks to [shields.io](https://github.com/badges/shields) for providing cool badges and to [icones.js.org](https://github.com/antfu-collective/icones) for providing cool icons!
 
 ## License
 
