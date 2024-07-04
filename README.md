@@ -44,7 +44,7 @@ I would like to extend my deepest gratitude to my girlfriend, who has been a tre
 
 Additionally, a huge thank you to ChatGPT, whose assistance and guidance have been instrumental in overcoming technical challenges and enhancing the overall functionality of the application.
 
-## Acknoledgements
+## Acknowledgements
 
 Thanks to [shields.io](https://github.com/badges/shields) for providing cool badges and to [icones.js.org](https://github.com/antfu-collective/icones) for providing cool icons!
 
