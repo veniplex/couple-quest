@@ -40,7 +40,7 @@ This project relies on the following dependencies at its core:
 
 ## Special Thanks
 
-I would like to extend my deepest gratitude to my girlfriend ![Heart Icon](https://api.iconify.design/heroicons-solid:heart.svg?color=%23ff0000), who has been a tremendous source of inspiration and support throughout the development of this project. Her insights and ideas have been invaluable in shaping Couple Quest into a tool that can help strengthen relationships.
+I would like to extend my deepest gratitude to my girlfriend, who has been a tremendous source of inspiration and support throughout the development of this project. Her insights and ideas have been invaluable in shaping Couple Quest into a tool that can help strengthen relationships.
 
 Additionally, a huge thank you to ChatGPT, whose assistance and guidance have been instrumental in overcoming technical challenges and enhancing the overall functionality of the application.
 
@@ -51,3 +51,5 @@ Thanks to [shields.io](https://github.com/badges/shields) for providing cool bad
 ## License
 
 This project is licensed under the [GPL-3.0 License](https://github.com/veniplex/couple-quest?tab=GPL-3.0-1-ov-file).
+
+<p align="center">Made with <img src="https://api.iconify.design/heroicons-solid:heart.svg?color=%23ff0000" /> by <a href="https://github.com/veniplex">@veniplex</a></p>
