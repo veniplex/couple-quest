@@ -52,4 +52,4 @@ Thanks to [shields.io](https://github.com/badges/shields) for providing cool bad
 
 This project is licensed under the [GPL-3.0 License](https://github.com/veniplex/couple-quest?tab=GPL-3.0-1-ov-file).
 
-<p align="center">Made with <img src="https://api.iconify.design/heroicons-solid:heart.svg?color=%23ff0000" /> by <a href="https://github.com/veniplex">@veniplex</a></p>
+<p align="center">Made with <a href="#"><img src="https://api.iconify.design/heroicons-solid:heart.svg?color=%23ff0000" /></a> by <a href="https://github.com/veniplex">@veniplex</a></p>
