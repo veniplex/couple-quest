@@ -7,6 +7,13 @@
   <a href="#"><img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/veniplex/couple-quest?style=flat&label=Version&color=%23fbc8b3"></a>
 </div>
 
+</br>
+
+> [!IMPORTANT]
+> The Google Signup is currently deactivated, so you cannot test this webapp yourself. To test it locally, you have to create a [Firebase](https://firebase.google.com/) project and set the environment variables in your own `.env` file. I am working to provide a public instance soon.
+
+</br>
+
 ## About the Project
 <a href="https://github.com/veniplex/couple-quest/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/veniplex/couple-quest?style=flat&label=Stars&color=%23ffea88"></a>
 <a href="https://github.com/veniplex/couple-quest/forks?include=active%2Carchived%2Cinactive%2Cnetwork&page=1&period=&sort_by=stargazer_counts"><img alt="GitHub forks" src="https://img.shields.io/github/forks/veniplex/couple-quest?style=flat&label=Forks&color=%2388ff88"></a>
