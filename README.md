@@ -61,7 +61,7 @@ This project is licensed under the [GPL-3.0 License](https://github.com/veniplex
 
 ## Sponsor this project
 
-<a href="https://www.buymeacoffee.com/veniplex"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=veniplex&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
-<a href="https://www.patreon.com/bePatron?u=135604640"><img src="https://github.com/veniplex/couple-quest/blob/main/.github/Support-Me-On-Patreon.svg" width=235 /></a>
+<a href="https://www.buymeacoffee.com/veniplex" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height=60 ></a>
+<a href="https://www.patreon.com/bePatron?u=135604640"><img src="https://github.com/veniplex/couple-quest/blob/main/.github/Support-Me-On-Patreon.svg" height=60 /></a>
 
 <p align="center">Made with <a href="https://wikipedia.org/wiki/Love"><img src="https://api.iconify.design/heroicons-solid:heart.svg?color=%23ff0000" /></a> by <a href="https://github.com/veniplex">@veniplex</a></p>
