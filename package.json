@@ -26,7 +26,7 @@
 	"type": "module",
 	"dependencies": {
 		"canvas-confetti": "^1.9.3",
-		"firebase": "^10.12.4",
+		"firebase": "^10.12.5",
 		"theme-change": "^2.5.0"
 	}
 }
