@@ -10,7 +10,7 @@
 		"format": "prettier --write ."
 	},
 	"devDependencies": {
-		"@sveltejs/kit": "^2.8.1",
+		"@sveltejs/kit": "^2.8.2",
 		"@sveltejs/adapter-auto": "^3.3.1",
 		"@sveltejs/vite-plugin-svelte": "^3.1.2",
 		"autoprefixer": "^10.4.20",
@@ -18,7 +18,7 @@
 		"postcss": "^8.4.49",
 		"prettier": "^3.3.3",
 		"prettier-plugin-svelte": "^3.3.2",
-		"prettier-plugin-tailwindcss": "^0.6.8",
+		"prettier-plugin-tailwindcss": "^0.6.9",
 		"svelte": "^4.2.19",
 		"vite": "^5.4.11",
 		"tailwindcss": "^3.4.15"
