@@ -10,7 +10,7 @@
 </br>
 
 > [!IMPORTANT]
-> The Google Signup is currently deactivated, so you cannot test this webapp yourself. To test it locally, you have to create a [Firebase](https://firebase.google.com/) project and set the environment variables in your own `.env` file. I am working to provide a public instance soon.
+> The Google Signup is currently deactivated, so you cannot test this webapp on my hosted instance. To test it locally, you have to create a [Firebase](https://firebase.google.com/) project and set the environment variables in your own `.env` file.
 
 </br>
 
